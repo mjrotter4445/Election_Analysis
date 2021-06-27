@@ -7,7 +7,7 @@ The purpose of the analysis is to generate a vote count report to certify the U.
 -	The **total number** of votes cast 
 -	The complete **list of counties** in the congressional precinct
 -	The **county with the highest** turnout
--	The completed *list of candidates* who received votes
+-	The completed **list of candidates** who received votes
 -	The **percentage of votes** each candidate won and 
 -	The **total number of votes each candidate** received
 -	The **winner** of the election based on popular vote 
