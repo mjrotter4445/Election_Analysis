@@ -1,6 +1,6 @@
 # Election Analysis for a U.S. Congressional Precinct in Colorado
  
-![Chart](https://github.com/mjrotter4445/Election_Analysis/blob/main/Resources/Screenshot%202021-06-27%20161240.png)
+   ![Chart](https://github.com/mjrotter4445/Election_Analysis/blob/main/Resources/Screenshot%202021-06-27%20161240.png)
 
 ## Overview of the Project
 Election analysis with Python programs to calculate a number of significant summaries for further analysis.  The raw data is in a csv file for us to retrieve.    
@@ -37,6 +37,6 @@ of the total votes.
 
 In this analysis and reporting exercise was for a particular district and that districts candidates.  This program code 
 was written using csv data files, variables, dictionaries and lists we looped through to get the results you see here.   
-The same program could be run on another data file for another precinct, if you wish.   
-
+The same program could be run on another data file for another precinct, if analysis on another precinct was required    
+in the future.   
 
