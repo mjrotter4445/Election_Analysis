@@ -32,6 +32,9 @@ The same report is **printed to a .txt file** in the below image.  This file can
 ![Chart](https://github.com/mjrotter4445/Election_Analysis/blob/main/Resources/results%20in%20a%20text%20file.png)
 
 ### Election-Audit Summary
+In this analysis, the winner is **Diana DeGette** with a winning vote count of **272,892** which represents **73.8%** 
+of the total votes.  
+
 In this analysis and reporting exercise was for a particular district and that districts candidates.  This program code 
 was written using csv data files, variables, dictionaries and lists we looped through to get the results you see here.   
 The same program could be run on another data file for another precinct, if you wish.   
