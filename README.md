@@ -37,6 +37,7 @@ of the total votes.
 
 In this analysis and reporting exercise was for a particular district and that districts candidates.  This program code 
 was written using csv data files, variables, dictionaries and lists we looped through to get the results you see here.   
+
 The same program could be run on another data file for another precinct, if analysis on another precinct was required    
 in the future.   
 
