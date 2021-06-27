@@ -24,7 +24,9 @@ The winner of the election, winning vote count, and winning percentage of vote a
 ![Chart](https://github.com/mjrotter4445/Election_Analysis/blob/main/Resources/candidates%20results1.png)
 
 The same report is printed to a .txt file 
-![Chart](xx)
+![Chart](https://github.com/mjrotter4445/Election_Analysis/blob/main/Resources/results%20in%20a%20text%20file.png)
+
+
 
 
 
