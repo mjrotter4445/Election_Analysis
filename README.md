@@ -1,6 +1,6 @@
 # Election Analysis for U.S. Congressional Precinct in Colorado
 Python election analysis
-![Chart](xx)
+![Chart](https://github.com/mjrotter4445/Election_Analysis/blob/main/Resources/Screenshot%202021-06-27%20161240.png)
 
 ## Overview of the Project
 Election analysis with Python programs to calculate a number of significant summaries for further analysis.  The raw data is in a csv file for us to retrieve.     
