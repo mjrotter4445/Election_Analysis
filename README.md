@@ -23,7 +23,8 @@ The Total Votes, each Candidates total votes and percentage of votes are all **p
 The winner of the election, winning vote count, and winning percentage of vote are all **printed to terminal** in this below image.  
 ![Chart](https://github.com/mjrotter4445/Election_Analysis/blob/main/Resources/candidates%20results1.png)
 
-The same report is printed to a .txt file 
+The same report is printed to a .txt file in the below image 
+
 ![Chart](https://github.com/mjrotter4445/Election_Analysis/blob/main/Resources/results%20in%20a%20text%20file.png)
 
 
