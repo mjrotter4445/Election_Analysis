@@ -16,4 +16,5 @@ The results are gathered with three primary voting methods including; Mail in Ba
  ## Resources
 - Data Source: [election_results.csv](Resources/election_results.csv)	
 ## Results 
-![Chart](https://github.com/mjrotter4445/stock-analysis/blob/main/Resources/2017%20run%20time%20refactored%20code.png))  
+![Chart](https://github.com/mjrotter4445/Election_Analysis/blob/main/Resources/candidates%20results1.png)
+
