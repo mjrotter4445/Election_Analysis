@@ -11,9 +11,9 @@ The purpose of the analysis is to generate a vote count report to certify the U.
 -	The **percentage of votes** each candidate won and 
 -	The **total number of votes each candidate** received
 -	The **winner** of the election based on popular vote 
-###Background
+### Background
 The results are gathered with three primary voting methods including; Mail in Ballots, Punch Cards, and DRE (Direct-recording electronic counting) memory cards.  
- ## Resources
+## Resources
 - Data Source: [election_results.csv](Resources/election_results.csv)	
 ## Results 
 ![Chart](https://github.com/mjrotter4445/Election_Analysis/blob/main/Resources/candidates%20results1.png)
