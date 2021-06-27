@@ -1,5 +1,7 @@
 # Election Analysis for U.S. Congressional Precinct in Colorado
 Python election analysis
+![Chart](xx)
+
 ## Overview of the Project
 Election analysis with Python programs to calculate a number of significant summaries for further analysis.  The raw data is in a csv file for us to retrieve.     
 ### Purpose 
