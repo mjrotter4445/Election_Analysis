@@ -27,7 +27,7 @@ The same report is **printed to a .txt file** in the below image
 
 ![Chart](https://github.com/mjrotter4445/Election_Analysis/blob/main/Resources/results%20in%20a%20text%20file.png)
 
-
+### Summary
 
 
 
